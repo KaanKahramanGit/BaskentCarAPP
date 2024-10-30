@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "151727281516",
+    "project_id": "baskentcar",
+    "storage_bucket": "baskentcar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151727281516:android:59b9be9b9e5e50c7fe8f49",
+        "android_client_info": {
+          "package_name": "com.example.baskent_car_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151727281516-q6h67n6agno1p4ahkh1garfolh1ttic2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNVsUzwfabop4n1B3Ed_s61S_0-O_Uyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151727281516-q6h67n6agno1p4ahkh1garfolh1ttic2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
